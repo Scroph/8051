@@ -7,7 +7,7 @@ The code is written in assembly, and is simulated in Proteus ISIS.
 
 I chose to connect the 7 segment module to the P0 port. I also took the liberty of placing a few 100 ohm resistors in between :
 
-![7 segment display](http://1.bp.blogspot.com/-TCWy5L_gLlo/VMZgAapNE6I/AAAAAAAAAIQ/1bcJF3HiEI4/s1600/keypad.PNG)
+![7 segment display](http://3.bp.blogspot.com/-mcQDfKmfb0k/VMZlAwVUKmI/AAAAAAAAAIo/G9uYvYdTbCQ/s1600/7segment_explanation.png)
 
 ## Keypad
 
