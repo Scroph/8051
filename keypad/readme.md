@@ -17,8 +17,8 @@ The keypad on the other hand is connected to the P1 port :
 
 The keypad-related portion of the code was inspired by the algorithm that was gracefully explained by Amol Shah in the [dnatechindia](http://www.dnatechindia.com/Tutorial/8051-Tutorial/Interfacing-Matrix-Keypad-to-8051.html) website.
 
-## You're welcome to drop by in my blog :^p
+## Shameless plug :^p
 
-A more thorough write-up can be found in [this blog post]().
+A more thorough write-up can be found in [this blog post](http://pingfrommorocco.blogspot.com/2015/01/jinterface-un-afficheur-7-segments-avec.html). 
 
-Be warned though, it's written in french.
+You're welcome to drop by in my blog any time. Be warned though, it's written in french.
