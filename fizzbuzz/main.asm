@@ -40,8 +40,8 @@ delay_loop:
 	pop 0
 	ret
 
-;divider in r0
-;dividend in r1
+;dividend in r0
+;divisor in r1
 ;the result will be stored in r7 : 1 if r0 % r1 == 0, 0 otherwise
 divisible:
 	push a
